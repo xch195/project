@@ -1,6 +1,6 @@
 # "My first project" 
 
-### Instalamos el paquete y la librería 
+### Instalamos el paquete e importamos la librería 
 
 %pip install palmerpenguins
 
