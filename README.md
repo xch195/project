@@ -1,5 +1,7 @@
 # "My first project" 
 
+### Instalamos el paquete y la librería 
+
 %pip install palmerpenguins
 
 import pandas as pd
